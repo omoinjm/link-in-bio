@@ -3,7 +3,7 @@ Link-in-bio for Nhlanhla Malaza
 
 https://njmbio.vercel.app/
 
-![thumbnail](thumb.png)
+![thumbnail](https://raw.githubusercontent.com/omoinjm/link-in-bio/master/thumb.jpg)
 
 ## License
 
